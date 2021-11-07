@@ -2,7 +2,7 @@
 Arquivos do projeto para a Apeperia
 
 <p><b>Ferramentas utilizadas</b></p>
-<li>VsCode</li>
+<li>VsCode</li><br><br>
 <p><b>O que aprendemos<b></p>
 <li>Analisar e desmembrar o layout recebido;</li>
 <li>Usar o EMMET para criar blocos de código HTML;</li>
