@@ -11,3 +11,6 @@ Arquivos do projeto para a Apeperia
 <li>O que é e para que serve mobile-first;</li>
 <li>Como funciona o <i>initial-scale</i> dentro do conteúdo do Viewport;</li>
 <li>Como declarar e chamar variáveis CSS;</li>
+<li>Utilizar as unidades de viewport;</li>
+<li>Identificar a diferença entre unidades absolutas e relativas;</li>
+<li>Analisar as limitações físicas de dispositivos;</li>
