@@ -17,3 +17,6 @@ Arquivos do projeto para a Apeperia
 <li>Como lidar com as imagens do layout que recebemos;</li>
 <li>Tags e atributos que têm mais função de semântica do que estilo;</li>
 <li>A importância de escrever um código semântico;</li>
+<li>Criar estilizações diferentes para diversos dispositivos com media queries;</li>
+<li>Adaptar estrutura e conteúdo para layouts diferentes;</li>
+<li>Progredir de um layout mobile até um layout para desktop;</li>
